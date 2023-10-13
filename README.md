@@ -1,9 +1,6 @@
 # FemoralHeadSegmentation
-Segmenting femoral head from hip CT image dataset
 
-
-Segmenting femoral head from hip CT image dataset
-In this assignment we learn how to work with a medical image dataset. The dataset is publicly available at Musculoskeletal Research Laboratories (MRL) at university of Utah (https://mrl.sci.utah.edu/).
+Segmenting femoral head from hip CT image dataset with a medical image dataset. The dataset is publicly available at Musculoskeletal Research Laboratories (MRL) at university of Utah (https://mrl.sci.utah.edu/).
 
 The data consist of CT arthrogram of human diarthrodial joints. The images are originally made from the subjects included in a finite element analysis of cartilage contact stresses for three study groups: 1) normal hip, 2) retroverted acetabula, and 3) traditional acetabular dysplasia. We use this dataset and tailor it to study the pelvis (femoral and acetabular bone and cartilage).
 
