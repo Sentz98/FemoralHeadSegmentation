@@ -22,5 +22,5 @@ By following these steps, you will be well-prepared to work with the dataset and
 
 You can see a picture of the hip joint below:
 
-![plot](img\femoral_head.jpeg)
+![Alt Text](img\femoral_head.jpeg)
 
