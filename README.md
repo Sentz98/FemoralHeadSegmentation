@@ -1,7 +1,7 @@
 # Segmenting Femoral Head from Hip CT Image Dataset
 
 ## Introduction
-This GitHub repository focuses on the segmentation of the femoral head from a publicly available CT image dataset, primarily designed for the study of diarthrodial joints at the Musculoskeletal Research Laboratories (MRL) of the University of Utah. The dataset comprises CT arthrograms of human diarthrodial joints and was originally created for finite element analysis of cartilage contact stresses within three study groups: normal hip, retroverted acetabula, and traditional acetabular dysplasia. In this project, we aim to adapt this dataset for the analysis of the pelvis, specifically focusing on the femoral and acetabular bone and cartilage.
+This GitHub repository focuses on the segmentation of the femoral head from a publicly available CT image dataset, primarily designed for the study of diarthrodial joints at the Musculoskeletal Research Laboratories (MRL) of the University of Utah (https://mrl.sci.utah.edu/Links). The dataset comprises CT arthrograms of human diarthrodial joints and was originally created for finite element analysis of cartilage contact stresses within three study groups: normal hip, retroverted acetabula, and traditional acetabular dysplasia. In this project, we aim to adapt this dataset for the analysis of the pelvis, specifically focusing on the femoral and acetabular bone and cartilage.
 
 ## Tasks
 
