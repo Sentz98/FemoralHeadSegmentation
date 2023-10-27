@@ -1,0 +1,13 @@
+[
+    {
+        "folder": "data/dataset/normalHip",
+        "subj": "JOR01",
+        "axial": [[330,400],[280,370]],
+        "coronal": [[0,0], [0,0]],
+        "sagittal": [[0,0], [0,0]]
+    },
+    {
+        "folder": "normalHip",
+        "subj": "JOR02"
+    }
+]

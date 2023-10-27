@@ -12,8 +12,7 @@ class SliceClassifierSVM:
         if model_path:
             self.load_model(model_path)
 
-    def load_images(self, data_dir):
-        json_file = os.path.join(data_dir, 'labels.json')
+    def load_images(self, json_file):
         
         if not os.path.exists(json_file):
             print(f"Labels file {json_file} does not exist. Please create it first.")
@@ -45,7 +44,7 @@ class SliceClassifierSVM:
                     self.labels.append(is_good_image)
 
     def train(self, data_dir):
-        X, y = self.load_images(data_dir)
+        X, y = self.load_images(data_dir, 'label.json')
 
         X_flatten = X.reshape(X.shape[0], -1)
         X_scaled = self.scaler.fit_transform(X_flatten)
