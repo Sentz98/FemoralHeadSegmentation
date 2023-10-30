@@ -3,11 +3,28 @@
         "folder": "data/dataset/normalHip",
         "subj": "JOR01",
         "axial": [[330,400],[280,370]],
-        "coronal": [[0,0], [0,0]],
-        "sagittal": [[0,0], [0,0]]
+        "coronal": [[680,820], [770,910]],
+        "sagittal": [[390,455], [1135,1185]]
     },
     {
-        "folder": "normalHip",
-        "subj": "JOR02"
+        "folder": "data/dataset/normalHip",
+        "subj": "JOR02",
+        "axial": [[250,380],[340,445]],
+        "coronal": [[690,820], [610,745]],
+        "sagittal": [[390,500], [1130,1210]]
+    },
+    {
+        "folder": "data/dataset/dysplasticHip",
+        "subj": "TRAD09_3x_full",
+        "axial": [[130,190],[255,320]],
+        "coronal": [[710,845], [580,730]],
+        "sagittal": [[400,455], [1180,1240]]
+    },
+    {
+        "folder": "data/dataset/retrovertedHip",
+        "subj": "OAC01",
+        "axial": [[210,270],[200,260]],
+        "coronal": [[770,870], [599,700]],
+        "sagittal": [[380,450], [1060,1120]]
     }
 ]

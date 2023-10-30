@@ -1,0 +1,16 @@
+[
+    {
+        "folder": "data/dataset/normalHip",
+        "subj": "JOR01",
+        "axial": [[330,400],[280,370]],
+        "coronal": [[680,820], [770,910]],
+        "sagittal": [[390,455], [1135,1185]]
+    },
+    {
+        "folder": "data/dataset/normalHip",
+        "subj": "JOR02",
+        "axial": [[250,380],[340,445]],
+        "coronal": [[690,820], [610,745]],
+        "sagittal": [[390,500], [1130,1210]]
+    }
+]
