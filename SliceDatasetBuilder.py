@@ -95,7 +95,7 @@ class CustomHipDataset(torch.utils.data.Dataset):
         return
     
     def get_all_dataset(self):
-        return self.__images__, self.__labels__
+        return self.image_paths, self.labels
 
 # Usage:
 # dataset = CustomHipDataset("your_json_path.json")
