@@ -3,4 +3,4 @@
 /wandb
 .DS_Store
 *.pt
-*.pth
+/dataset
