@@ -53,7 +53,7 @@ class CustomHipDataset(torch.utils.data.Dataset):
 
                     for image_name in os.listdir(image_dir):
                         # Validate if the image matches the side for non-sagittal types
-                        if side and not image_name.endswith(f"_{side}.png"):
+                        if side and not image_name.endswith(f"_{side}.jpeg"):
                             continue
 
                         # Extract the image number
@@ -104,7 +104,7 @@ class CustomHipDataset(torch.utils.data.Dataset):
 #--------------------------------------------------------------------------------------------------------------
 
 # Function to create png images from dicom files
-def load_and_save(filepath, roi= None):
+def load_and_save(filepath, roi= None, coronal=False, sagittal=False):
     # create the destination folder
     if not os.path.exists("data/dataset"):
         os.mkdir("data/dataset")
@@ -128,8 +128,10 @@ def load_and_save(filepath, roi= None):
     if not os.path.exists(dest_folder):
         os.mkdir(dest_folder)
         os.mkdir(f"{dest_folder}/axial")
-        os.mkdir(f"{dest_folder}/coronal")
-        os.mkdir(f"{dest_folder}/sagittal")
+        if coronal:
+            os.mkdir(f"{dest_folder}/coronal")
+        if sagittal:
+            os.mkdir(f"{dest_folder}/sagittal")
 
     # load the image files
     image_files = glob.glob(os.path.join(filepath, '*.dcm'))
@@ -156,23 +158,25 @@ def load_and_save(filepath, roi= None):
         axialSX = axial[:, :axial.shape[1]//2]
         axialDX = axial[:, axial.shape[1]//2:]
 
-        plt.imsave(f"{dest_folder}/axial/{subject}_{i}_SX.png", axialSX, cmap='gray')
-        plt.imsave(f"{dest_folder}/axial/{subject}_{i}_DX.png", axialDX, cmap='gray')
+        plt.imsave(f"{dest_folder}/axial/{subject}_{i}_SX.jpeg", axialSX, cmap='gray')
+        plt.imsave(f"{dest_folder}/axial/{subject}_{i}_DX.jpeg", axialDX, cmap='gray')
 
     # save the coronal view image
-    for i in tqdm(range(roi[1][0], roi[1][1]), desc="Saving coronal slices"):
-        coronal = np.rot90(np.rot90(Im[:, i, :]))
-        #split image in two parts (left and right)
-        coronalSX = coronal[:, :coronal.shape[1]//2]
-        coronalDX = coronal[:, coronal.shape[1]//2:]
+    if coronal:
+        for i in tqdm(range(roi[1][0], roi[1][1]), desc="Saving coronal slices"):
+            coronal = np.rot90(np.rot90(Im[:, i, :]))
+            #split image in two parts (left and right)
+            coronalSX = coronal[:, :coronal.shape[1]//2]
+            coronalDX = coronal[:, coronal.shape[1]//2:]
 
-        plt.imsave(f"{dest_folder}/coronal/{subject}_{i}_SX.png", coronalSX, cmap='gray')
-        plt.imsave(f"{dest_folder}/coronal/{subject}_{i}_DX.png", coronalDX, cmap='gray')
-    
+            plt.imsave(f"{dest_folder}/coronal/{subject}_{i}_SX.jpeg", coronalSX, cmap='gray')
+            plt.imsave(f"{dest_folder}/coronal/{subject}_{i}_DX.jpeg", coronalDX, cmap='gray')
+        
     # save the sagittal view image
-    for i in tqdm(range(roi[2][0], roi[2][1]), desc="Saving sagittal slices"):
-        sagittal = np.rot90(np.rot90(Im[:, :, i]))
-        plt.imsave(f"{dest_folder}/sagittal/{subject}_{i}.png", sagittal, cmap='gray')
+    if sagittal:
+        for i in tqdm(range(roi[2][0], roi[2][1]), desc="Saving sagittal slices"):
+            sagittal = np.rot90(np.rot90(Im[:, :, i]))
+            plt.imsave(f"{dest_folder}/sagittal/{subject}_{i}.jpeg", sagittal, cmap='gray')
     
     print(f"{subject} dataset saved in {dest_folder}")
 
@@ -182,9 +186,11 @@ def load_and_save(filepath, roi= None):
 #def function to load image and save slices in dataset folder
 
 if __name__ == "__main__":
-    load_and_save("data/normalHip/JOR01")
-    load_and_save("data/normalHip/JOR02")
-    load_and_save("data/normalHip/JOR09")
+    load_and_save(f"/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/normalHip/JOR09")
+    
+
+    
+
     
 
 

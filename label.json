@@ -2,29 +2,36 @@
     {
         "folder": "data/dataset/normalHip",
         "subj": "JOR01",
-        "axial": [[330,400],[280,370]],
-        "coronal": [[680,820], [770,910]],
-        "sagittal": [[390,455], [1135,1185]]
+        "axial": [[330,400],[280,370]]
     },
     {
         "folder": "data/dataset/normalHip",
         "subj": "JOR02",
-        "axial": [[250,380],[340,445]],
-        "coronal": [[690,820], [610,745]],
-        "sagittal": [[390,500], [1130,1210]]
+        "axial": [[250,380],[340,445]]
+    },
+    {
+        "folder": "data/dataset/normalHip",
+        "subj": "JOR09",
+        "axial": [[240,300],[230,290]]
     },
     {
         "folder": "data/dataset/dysplasticHip",
         "subj": "TRAD09_3x_full",
-        "axial": [[130,190],[255,320]],
-        "coronal": [[710,845], [580,730]],
-        "sagittal": [[400,455], [1180,1240]]
+        "axial": [[130,190],[255,320]]
+    },
+    {
+        "folder": "data/dataset/dysplasticHip",
+        "subj": "TRAD10_3x_full",
+        "axial": [[355,430],[230,325]]
     },
     {
         "folder": "data/dataset/retrovertedHip",
-        "subj": "OAC01",
-        "axial": [[210,270],[200,260]],
-        "coronal": [[770,870], [599,700]],
-        "sagittal": [[380,450], [1060,1120]]
+        "subj": "Patient_01",
+        "axial": [[210,270],[200,260]]
+    },
+    {
+        "folder": "data/dataset/retrovertedHip",
+        "subj": "Patient_02",
+        "axial": [[230,285],[260,310]]
     }
 ]
