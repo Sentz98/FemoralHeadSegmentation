@@ -4,3 +4,5 @@
 .DS_Store
 *.pt
 /dataset
+
+!/data/data.csv
