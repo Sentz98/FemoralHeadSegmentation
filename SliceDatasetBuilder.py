@@ -182,6 +182,8 @@ def load_and_save(filepath, roi= None):
 #def function to load image and save slices in dataset folder
 
 if __name__ == "__main__":
+    load_and_save("data/normalHip/JOR01")
+    load_and_save("data/normalHip/JOR02")
     load_and_save("data/normalHip/JOR09")
     
 
