@@ -16,12 +16,12 @@
     },
     {
         "folder": "data/dataset/dysplasticHip",
-        "subj": "TRAD09_3x_full",
+        "subj": "TRAD09",
         "axial": [[130,190],[255,320]]
     },
     {
         "folder": "data/dataset/dysplasticHip",
-        "subj": "TRAD10_3x_full",
+        "subj": "TRAD10",
         "axial": [[355,430],[230,325]]
     },
     {

@@ -57,7 +57,7 @@ class CustomHipDataset(torch.utils.data.Dataset):
                             continue
 
                         # Extract the image number
-                        img_num = int(image_name.split('_')[1].split('.')[0])
+                        img_num = int(image_name.split('_')[-2].split('.')[0])
 
                         # Exclude images within the excluded interval
                         if excluded_interval[0] <= img_num <= positive_interval[0] or positive_interval[1] <= img_num <= excluded_interval[1]:
@@ -186,7 +186,7 @@ def load_and_save(filepath, roi= None, coronal=False, sagittal=False):
 #def function to load image and save slices in dataset folder
 
 if __name__ == "__main__":
-    load_and_save(f"/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/normalHip/JOR09")
+    load_and_save(f"/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dysplasticHip/TRAD09_3x_full")
     
 
     
