@@ -1,5 +1,5 @@
-image_path,segmentation
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_880_DX.jpeg,"[[        280        1195]
+segmentation,image_path
+"[[        280        1195]
  [        279        1196]
  [        266        1196]
  [        266        1197]
@@ -95,8 +95,8 @@ image_path,segmentation
  [        296        1198]
  [        295        1197]
  [        295        1196]
- [        294        1195]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_700_DX.jpeg,"[[        455         364]
+ [        294        1195]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_880_DX.jpeg
+"[[        455         364]
  [        454         365]
  [        451         365]
  [        451         366]
@@ -220,8 +220,8 @@ image_path,segmentation
  [        471         366]
  [        471         365]
  [        467         365]
- [        466         364]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_1030_DX.jpeg,"[[        394         689]
+ [        466         364]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_700_DX.jpeg
+"[[        394         689]
  [        394         690]
  [        393         691]
  [        389         691]
@@ -279,8 +279,8 @@ image_path,segmentation
  [        417         691]
  [        415         691]
  [        414         690]
- [        414         689]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_870_DX.jpeg,"[[        277        1204]
+ [        414         689]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_1030_DX.jpeg
+"[[        277        1204]
  [        276        1205]
  [        271        1205]
  [        271        1206]
@@ -345,8 +345,8 @@ image_path,segmentation
  [        292        1206]
  [        292        1205]
  [        290        1205]
- [        289        1204]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_60_DX.jpeg,"[[        497         722]
+ [        289        1204]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_870_DX.jpeg
+"[[        497         722]
  [        497         723]
  [        496         724]
  [        493         724]
@@ -457,15 +457,15 @@ image_path,segmentation
  [        528         724]
  [        506         724]
  [        505         723]
- [        505         722]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_250_DX.jpeg,"[[        433         430]
+ [        505         722]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_60_DX.jpeg
+"[[        433         430]
  [        432         431]
  [        407         431]
  ...
  [        480         431]
  [        442         431]
- [        441         430]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_740_DX.jpeg,"[[         32         787]
+ [        441         430]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_250_DX.jpeg
+"[[         32         787]
  [         31         788]
  [         23         788]
  [         23         789]
@@ -588,29 +588,29 @@ image_path,segmentation
  [         66         789]
  [         66         788]
  [         50         788]
- [         49         787]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_300_DX.jpeg,"[[         31         434]
+ [         49         787]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_740_DX.jpeg
+"[[         31         434]
  [         31         435]
  [         30         436]
  ...
  [         38         436]
  [         37         435]
- [         37         434]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_350_DX.jpeg,"[[         29         439]
+ [         37         434]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_300_DX.jpeg
+"[[         29         439]
  [         28         440]
  [          7         440]
  ...
  [         93         440]
  [         64         440]
- [         63         439]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_520_DX.jpeg,"[[         74         424]
+ [         63         439]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_350_DX.jpeg
+"[[         74         424]
  [         73         425]
  [          7         425]
  ...
  [        105         425]
  [         77         425]
- [         76         424]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_150_DX.jpeg,"[[        506         694]
+ [         76         424]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_520_DX.jpeg
+"[[        506         694]
  [        505         695]
  [        496         695]
  [        496         696]
@@ -877,8 +877,8 @@ image_path,segmentation
  [        545         694]
  [        544         695]
  [        526         695]
- [        525         694]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_850_DX.jpeg,"[[        292         533]
+ [        525         694]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_150_DX.jpeg
+"[[        292         533]
  [        292         534]
  [        291         535]
  [        287         535]
@@ -940,22 +940,22 @@ image_path,segmentation
  [        309         536]
  [        308         536]
  [        306         534]
- [        306         533]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_280_DX.jpeg,"[[         29         436]
+ [        306         533]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_850_DX.jpeg
+"[[         29         436]
  [         28         437]
  [          7         437]
  ...
  [         73         437]
  [         59         437]
- [         58         436]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_750_DX.jpeg,"[[         44         335]
+ [         58         436]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_280_DX.jpeg
+"[[         44         335]
  [         44         336]
  [         43         337]
  ...
  [        104         337]
  [        103         336]
- [        103         335]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_40_DX.jpeg,"[[        500         697]
+ [        103         335]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_750_DX.jpeg
+"[[        500         697]
  [        499         698]
  [        493         698]
  [        493         699]
@@ -1121,8 +1121,8 @@ image_path,segmentation
  [        541         699]
  [        541         698]
  [        538         698]
- [        537         697]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_810_DX.jpeg,"[[        247         907]
+ [        537         697]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_40_DX.jpeg
+"[[        247         907]
  [        246         908]
  [        230         908]
  [        230         909]
@@ -1191,22 +1191,22 @@ image_path,segmentation
  [        269         910]
  [        268         909]
  [        268         908]
- [        267         907]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_460_DX.jpeg,"[[         77         433]
+ [        267         907]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_810_DX.jpeg
+"[[         77         433]
  [         76         434]
  [         34         434]
  ...
  [        123         434]
  [         95         434]
- [         94         433]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_260_DX.jpeg,"[[        434         431]
+ [         94         433]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_460_DX.jpeg
+"[[        434         431]
  [        434         432]
  [        433         433]
  ...
  [        451         433]
  [        450         432]
- [        450         431]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_400_DX.jpeg,"[[        377         709]
+ [        450         431]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_260_DX.jpeg
+"[[        377         709]
  [        376         710]
  [        373         710]
  [        373         711]
@@ -1369,8 +1369,8 @@ image_path,segmentation
  [        394         711]
  [        394         710]
  [        389         710]
- [        388         709]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_1020_DX.jpeg,"[[         55         442]
+ [        388         709]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_400_DX.jpeg
+"[[         55         442]
  [         54         443]
  [         52         443]
  [         52         444]
@@ -1481,15 +1481,15 @@ image_path,segmentation
  [         64         444]
  [         64         443]
  [         61         443]
- [         60         442]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_390_DX.jpeg,"[[         40         442]
+ [         60         442]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_1020_DX.jpeg
+"[[         40         442]
  [         39         443]
  [         14         443]
  ...
  [        150         443]
  [        115         443]
- [        114         442]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_720_DX.jpeg,"[[        455         365]
+ [        114         442]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_390_DX.jpeg
+"[[        455         365]
  [        455         366]
  [        454         367]
  [        451         367]
@@ -1607,8 +1607,8 @@ image_path,segmentation
  [        469         367]
  [        467         367]
  [        466         366]
- [        466         365]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_780_DX.jpeg,"[[         89         929]
+ [        466         365]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_720_DX.jpeg
+"[[         89         929]
  [         89         930]
  [         88         931]
  [         76         931]
@@ -1782,22 +1782,22 @@ image_path,segmentation
  [        111         931]
  [        101         931]
  [        100         930]
- [        100         929]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_540_DX.jpeg,"[[         64         418]
+ [        100         929]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_780_DX.jpeg
+"[[         64         418]
  [         63         419]
  [         40         419]
  ...
  [         76         419]
  [         74         419]
- [         73         418]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_550_DX.jpeg,"[[         85         415]
+ [         73         418]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_540_DX.jpeg
+"[[         85         415]
  [         84         416]
  [         56         416]
  ...
  [        156         416]
  [         89         416]
- [         88         415]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_190_DX.jpeg,"[[        266         878]
+ [         88         415]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_550_DX.jpeg
+"[[        266         878]
  [        266         879]
  [        265         880]
  [        263         880]
@@ -1984,8 +1984,8 @@ image_path,segmentation
  [        286         880]
  [        281         880]
  [        280         879]
- [        280         878]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_270_DX.jpeg,"[[        535         659]
+ [        280         878]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_190_DX.jpeg
+"[[        535         659]
  [        535         660]
  [        534         661]
  [        533         661]
@@ -2071,15 +2071,15 @@ image_path,segmentation
  [        543         661]
  [        541         661]
  [        540         660]
- [        540         659]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_380_DX.jpeg,"[[         47         442]
+ [        540         659]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_270_DX.jpeg
+"[[         47         442]
  [         46         443]
  [          7         443]
  ...
  [        139         443]
  [         88         443]
- [         87         442]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_160_DX.jpeg,"[[        259         895]
+ [         87         442]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_380_DX.jpeg
+"[[        259         895]
  [        258         896]
  [        256         896]
  [        256         897]
@@ -2258,15 +2258,15 @@ image_path,segmentation
  [        286         897]
  [        286         896]
  [        280         896]
- [        279         895]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_600_DX.jpeg,"[[         25         392]
+ [        279         895]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_160_DX.jpeg
+"[[         25         392]
  [         25         393]
  [         24         394]
  ...
  [        110         394]
  [        109         393]
- [        109         392]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_170_DX.jpeg,"[[        268         890]
+ [        109         392]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_600_DX.jpeg
+"[[        268         890]
  [        268         891]
  [        267         892]
  [        262         892]
@@ -2442,8 +2442,8 @@ image_path,segmentation
  [        286         892]
  [        280         892]
  [        279         891]
- [        279         890]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_310_DX.jpeg,"[[         49        1139]
+ [        279         890]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_170_DX.jpeg
+"[[         49        1139]
  [         49        1140]
  [         48        1141]
  [         41        1141]
@@ -2535,8 +2535,8 @@ image_path,segmentation
  [         58        1141]
  [         52        1141]
  [         51        1140]
- [         51        1139]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_660_DX.jpeg,"[[        152        1078]
+ [         51        1139]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_310_DX.jpeg
+"[[        152        1078]
  [        151        1079]
  [        146        1079]
  [        146        1080]
@@ -2649,8 +2649,8 @@ image_path,segmentation
  [        171        1080]
  [        171        1079]
  [        167        1079]
- [        166        1078]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_440_DX.jpeg,"[[         71        1127]
+ [        166        1078]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_660_DX.jpeg
+"[[         71        1127]
  [         71        1128]
  [         70        1129]
  [         62        1129]
@@ -2703,8 +2703,8 @@ image_path,segmentation
  [         88        1131]
  [         88        1129]
  [         87        1128]
- [         87        1127]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_960_DX.jpeg,"[[         25         724]
+ [         87        1127]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_440_DX.jpeg
+"[[         25         724]
  [         24         725]
  [         19         725]
  [         19         726]
@@ -2850,8 +2850,8 @@ image_path,segmentation
  [         60         726]
  [         60         725]
  [         53         725]
- [         52         724]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_980_DX.jpeg,"[[         58         455]
+ [         52         724]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_960_DX.jpeg
+"[[         58         455]
  [         58         456]
  [         57         457]
  [         55         457]
@@ -2964,8 +2964,8 @@ image_path,segmentation
  [         75         457]
  [         71         457]
  [         70         456]
- [         70         455]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_930_DX.jpeg,"[[        272        1205]
+ [         70         455]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_980_DX.jpeg
+"[[        272        1205]
  [        272        1206]
  [        271        1207]
  [        269        1207]
@@ -3030,8 +3030,8 @@ image_path,segmentation
  [        285        1207]
  [        283        1207]
  [        282        1206]
- [        282        1205]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_1000_DX.jpeg,"[[         47         446]
+ [        282        1205]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_930_DX.jpeg
+"[[         47         446]
  [         47         447]
  [         45         449]
  [         43         449]
@@ -3144,8 +3144,8 @@ image_path,segmentation
  [         63         448]
  [         59         448]
  [         58         447]
- [         58         446]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_950_DX.jpeg,"[[         26         725]
+ [         58         446]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_1000_DX.jpeg
+"[[         26         725]
  [         26         726]
  [         25         727]
  [         20         727]
@@ -3292,15 +3292,15 @@ image_path,segmentation
  [         63         727]
  [         56         727]
  [         55         726]
- [         55         725]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_570_DX.jpeg,"[[         55         404]
+ [         55         725]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_950_DX.jpeg
+"[[         55         404]
  [         55         405]
  [         54         406]
  ...
  [         58         406]
  [         57         405]
- [         57         404]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_1010_DX.jpeg,"[[         47         445]
+ [         57         404]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_570_DX.jpeg
+"[[         47         445]
  [         46         446]
  [         44         446]
  [         44         447]
@@ -3413,8 +3413,8 @@ image_path,segmentation
  [         66         447]
  [         66         446]
  [         61         446]
- [         60         445]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_690_DX.jpeg,"[[        455         368]
+ [         60         445]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_1010_DX.jpeg
+"[[        455         368]
  [        455         369]
  [        454         370]
  [        448         370]
@@ -3516,22 +3516,22 @@ image_path,segmentation
  [        469         370]
  [        467         370]
  [        466         369]
- [        466         368]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_220_DX.jpeg,"[[        469         425]
+ [        466         368]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_690_DX.jpeg
+"[[        469         425]
  [        469         426]
  [        468         427]
  ...
  [        509         427]
  [        508         426]
- [        508         425]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_610_DX.jpeg,"[[         32         388]
+ [        508         425]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_220_DX.jpeg
+"[[         32         388]
  [         31         389]
  [          8         389]
  ...
  [        123         389]
  [         91         389]
- [         90         388]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_140_DX.jpeg,"[[        542         695]
+ [         90         388]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_610_DX.jpeg
+"[[        542         695]
  [        542         696]
  [        541         697]
  [        529         697]
@@ -3769,8 +3769,8 @@ image_path,segmentation
  [        579         697]
  [        575         697]
  [        574         696]
- [        574         695]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_70_DX.jpeg,"[[        514         698]
+ [        574         695]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_140_DX.jpeg
+"[[        514         698]
  [        514         699]
  [        513         700]
  [        505         700]
@@ -3966,8 +3966,8 @@ image_path,segmentation
  [        555         700]
  [        551         700]
  [        550         699]
- [        550         698]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_50_DX.jpeg,"[[        512         697]
+ [        550         698]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_70_DX.jpeg
+"[[        512         697]
  [        511         698]
  [        502         698]
  [        502         699]
@@ -4139,8 +4139,8 @@ image_path,segmentation
  [        544         699]
  [        544         698]
  [        541         698]
- [        540         697]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_30_DX.jpeg,"[[        514         724]
+ [        540         697]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_50_DX.jpeg
+"[[        514         724]
  [        513         725]
  [        497         725]
  [        497         726]
@@ -4233,8 +4233,8 @@ image_path,segmentation
  [        528         726]
  [        528         725]
  [        523         725]
- [        522         724]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_670_DX.jpeg,"[[        137        1082]
+ [        522         724]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_30_DX.jpeg
+"[[        137        1082]
  [        137        1083]
  [        136        1084]
  [        133        1084]
@@ -4347,15 +4347,15 @@ image_path,segmentation
  [        156        1084]
  [        148        1084]
  [        147        1083]
- [        147        1082]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_790_DX.jpeg,"[[         50         329]
+ [        147        1082]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_670_DX.jpeg
+"[[         50         329]
  [         50         330]
  [         49         331]
  ...
  [         53         331]
  [         52         330]
- [         52         329]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_920_DX.jpeg,"[[        271        1195]
+ [         52         329]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_790_DX.jpeg
+"[[        271        1195]
  [        270        1196]
  [        268        1196]
  [        268        1197]
@@ -4454,8 +4454,8 @@ image_path,segmentation
  [        291        1197]
  [        291        1196]
  [        281        1196]
- [        280        1195]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_760_DX.jpeg,"[[         26         781]
+ [        280        1195]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_920_DX.jpeg
+"[[         26         781]
  [         25         782]
  [         20         782]
  [         20         783]
@@ -4612,8 +4612,8 @@ image_path,segmentation
  [         69         783]
  [         69         782]
  [         61         782]
- [         60         781]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_110_DX.jpeg,"[[        544         697]
+ [         60         781]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_760_DX.jpeg
+"[[        544         697]
  [        543         698]
  [        529         698]
  [        529         699]
@@ -4869,15 +4869,15 @@ image_path,segmentation
  [        567         699]
  [        567         698]
  [        562         698]
- [        561         697]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_500_DX.jpeg,"[[        146         425]
+ [        561         697]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_110_DX.jpeg
+"[[        146         425]
  [        146         426]
  [        145         427]
  ...
  [        149         427]
  [        148         426]
- [        148         425]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_0_DX.jpeg,"[[        493         692]
+ [        148         425]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_500_DX.jpeg
+"[[        493         692]
  [        493         693]
  [        492         694]
  [        488         694]
@@ -5048,15 +5048,15 @@ image_path,segmentation
  [        525         694]
  [        520         694]
  [        519         693]
- [        519         692]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_370_DX.jpeg,"[[         23         442]
+ [        519         692]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_0_DX.jpeg
+"[[         23         442]
  [         22         443]
  [          7         443]
  ...
  [        138         443]
  [        109         443]
- [        108         442]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_210_DX.jpeg,"[[         50         541]
+ [        108         442]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_370_DX.jpeg
+"[[         50         541]
  [         49         542]
  [         44         542]
  [         44         543]
@@ -5253,15 +5253,15 @@ image_path,segmentation
  [         94         543]
  [         94         542]
  [         76         542]
- [         75         541]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_490_DX.jpeg,"[[        145         427]
+ [         75         541]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_210_DX.jpeg
+"[[        145         427]
  [        144         428]
  [         97         428]
  ...
  [        177         428]
  [        155         428]
- [        154         427]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_90_DX.jpeg,"[[        179        1292]
+ [        154         427]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_490_DX.jpeg
+"[[        179        1292]
  [        179        1293]
  [        178        1294]
  [        173        1294]
@@ -5319,8 +5319,8 @@ image_path,segmentation
  [        190        1294]
  [        187        1294]
  [        186        1293]
- [        186        1292]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_680_DX.jpeg,"[[        458         376]
+ [        186        1292]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_90_DX.jpeg
+"[[        458         376]
  [        457         377]
  [        452         377]
  [        452         378]
@@ -5406,8 +5406,8 @@ image_path,segmentation
  [        466         378]
  [        466         377]
  [        461         377]
- [        460         376]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_730_DX.jpeg,"[[        451         374]
+ [        460         376]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_680_DX.jpeg
+"[[        451         374]
  [        451         375]
  [        450         376]
  [        448         376]
@@ -5499,36 +5499,36 @@ image_path,segmentation
  [        466         376]
  [        464         376]
  [        463         375]
- [        463         374]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_650_DX.jpeg,"[[         47         368]
+ [        463         374]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_730_DX.jpeg
+"[[         47         368]
  [         47         369]
  [         46         370]
  ...
  [         86         370]
  [         85         369]
- [         85         368]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_840_DX.jpeg,"[[         53         325]
+ [         85         368]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_650_DX.jpeg
+"[[         53         325]
  [         52         326]
  [         25         326]
  ...
  [        117         326]
  [         88         326]
- [         87         325]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_560_DX.jpeg,"[[         25         412]
+ [         87         325]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_840_DX.jpeg
+"[[         25         412]
  [         24         413]
  [          7         413]
  ...
  [        154         413]
  [        151         413]
- [        150         412]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_590_DX.jpeg,"[[         32         394]
+ [        150         412]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_560_DX.jpeg
+"[[         32         394]
  [         31         395]
  [         11         395]
  ...
  [        132         395]
  [        107         395]
- [        106         394]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_820_DX.jpeg,"[[         31         755]
+ [        106         394]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_590_DX.jpeg
+"[[         31         755]
  [         31         756]
  [         30         757]
  [         22         757]
@@ -5713,15 +5713,15 @@ image_path,segmentation
  [         66         757]
  [         61         757]
  [         60         756]
- [         60         755]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_330_DX.jpeg,"[[         55         436]
+ [         60         755]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_820_DX.jpeg
+"[[         55         436]
  [         54         437]
  [          7         437]
  ...
  [         75         437]
  [         58         437]
- [         57         436]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_710_DX.jpeg,"[[        451         364]
+ [         57         436]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_330_DX.jpeg
+"[[        451         364]
  [        450         365]
  [        448         365]
  [        448         366]
@@ -5851,8 +5851,8 @@ image_path,segmentation
  [        474         366]
  [        474         365]
  [        470         365]
- [        469         364]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_120_DX.jpeg,"[[        542         695]
+ [        469         364]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_710_DX.jpeg
+"[[        542         695]
  [        542         696]
  [        541         697]
  [        532         697]
@@ -6118,8 +6118,8 @@ image_path,segmentation
  [        567         697]
  [        560         697]
  [        559         696]
- [        559         695]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_360_DX.jpeg,"[[         46        1171]
+ [        559         695]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_120_DX.jpeg
+"[[         46        1171]
  [         45        1172]
  [         37        1172]
  [         37        1173]
@@ -6197,15 +6197,15 @@ image_path,segmentation
  [         80        1174]
  [         79        1173]
  [         79        1172]
- [         78        1171]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_410_DX.jpeg,"[[         71         437]
+ [         78        1171]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_360_DX.jpeg
+"[[         71         437]
  [         71         438]
  [         70         439]
  ...
  [         85         439]
  [         84         438]
- [         84         437]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_900_DX.jpeg,"[[        271        1186]
+ [         84         437]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_410_DX.jpeg
+"[[        271        1186]
  [        270        1187]
  [        268        1187]
  [        268        1188]
@@ -6321,15 +6321,15 @@ image_path,segmentation
  [        291        1188]
  [        291        1187]
  [        287        1187]
- [        286        1186]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_510_DX.jpeg,"[[        145         425]
+ [        286        1186]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_900_DX.jpeg
+"[[        145         425]
  [        145         426]
  [        144         427]
  ...
  [        149         427]
  [        148         426]
- [        148         425]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_200_DX.jpeg,"[[         47         544]
+ [        148         425]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_510_DX.jpeg
+"[[         47         544]
  [         46         545]
  [         40         545]
  [         40         546]
@@ -6489,8 +6489,8 @@ image_path,segmentation
  [         63         546]
  [         63         545]
  [         55         545]
- [         54         544]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_800_DX.jpeg,"[[        250         901]
+ [         54         544]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_200_DX.jpeg
+"[[        250         901]
  [        249         902]
  [        242         902]
  [        242         903]
@@ -6614,8 +6614,8 @@ image_path,segmentation
  [        275         904]
  [        274         903]
  [        274         902]
- [        273         901]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_640_DX.jpeg,"[[         83        1097]
+ [        273         901]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_800_DX.jpeg
+"[[         83        1097]
  [         83        1098]
  [         82        1099]
  [         52        1099]
@@ -6750,8 +6750,8 @@ image_path,segmentation
  [         99        1099]
  [         88        1099]
  [         87        1098]
- [         87        1097]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_990_DX.jpeg,"[[         50         449]
+ [         87        1097]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_640_DX.jpeg
+"[[         50         449]
  [         50         450]
  [         49         451]
  [         47         451]
@@ -6875,8 +6875,8 @@ image_path,segmentation
  [         67         451]
  [         62         451]
  [         61         450]
- [         61         449]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_940_DX.jpeg,"[[         28         725]
+ [         61         449]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_990_DX.jpeg
+"[[         28         725]
  [         28         726]
  [         27         727]
  [         19         727]
@@ -7034,36 +7034,36 @@ image_path,segmentation
  [         64         727]
  [         58         727]
  [         57         726]
- [         57         725]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_630_DX.jpeg,"[[         49         377]
+ [         57         725]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_940_DX.jpeg
+"[[         49         377]
  [         49         378]
  [         48         379]
  ...
  [         58         379]
  [         57         378]
- [         57         377]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_320_DX.jpeg,"[[         23         436]
+ [         57         377]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_630_DX.jpeg
+"[[         23         436]
  [         22         437]
  [          7         437]
  ...
  [         84         437]
  [         62         437]
- [         61         436]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_620_DX.jpeg,"[[         25         383]
+ [         61         436]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_320_DX.jpeg
+"[[         25         383]
  [         25         384]
  [         24         385]
  ...
  [        107         385]
  [        106         384]
- [        106         383]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_450_DX.jpeg,"[[         37         434]
+ [        106         383]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_620_DX.jpeg
+"[[         37         434]
  [         37         435]
  [         36         436]
  ...
  [        137         436]
  [        136         435]
- [        136         434]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_130_DX.jpeg,"[[        547         695]
+ [        136         434]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_450_DX.jpeg
+"[[        547         695]
  [        547         696]
  [        546         697]
  [        533         697]
@@ -7330,8 +7330,8 @@ image_path,segmentation
  [        573         697]
  [        566         697]
  [        565         696]
- [        565         695]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_80_DX.jpeg,"[[        521         698]
+ [        565         695]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_130_DX.jpeg
+"[[        521         698]
  [        521         699]
  [        520         700]
  [        509         700]
@@ -7541,8 +7541,8 @@ image_path,segmentation
  [        558         700]
  [        554         700]
  [        553         699]
- [        553         698]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_20_DX.jpeg,"[[        500         694]
+ [        553         698]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_80_DX.jpeg
+"[[        500         694]
  [        499         695]
  [        491         695]
  [        491         696]
@@ -7720,22 +7720,22 @@ image_path,segmentation
  [        508         694]
  [        507         695]
  [        505         695]
- [        504         694]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_430_DX.jpeg,"[[         74         434]
+ [        504         694]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_20_DX.jpeg
+"[[         74         434]
  [         74         435]
  [         73         436]
  ...
  [         89         436]
  [         88         435]
- [         88         434]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_470_DX.jpeg,"[[         58         431]
+ [         88         434]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_430_DX.jpeg
+"[[         58         431]
  [         58         432]
  [         57         433]
  ...
  [         74         433]
  [         73         432]
- [         73         431]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_10_DX.jpeg,"[[        493         694]
+ [         73         431]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_470_DX.jpeg
+"[[        493         694]
  [        492         695]
  [        487         695]
  [        487         696]
@@ -7910,22 +7910,22 @@ image_path,segmentation
  [        531         696]
  [        531         695]
  [        526         695]
- [        525         694]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_480_DX.jpeg,"[[         29         430]
+ [        525         694]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_10_DX.jpeg
+"[[         29         430]
  [         28         431]
  [          8         431]
  ...
  [         54         431]
  [         37         431]
- [         36         430]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_530_DX.jpeg,"[[         49         422]
+ [         36         430]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_480_DX.jpeg
+"[[         49         422]
  [         49         423]
  [         48         424]
  ...
  [        100         424]
  [         99         423]
- [         99         422]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_770_DX.jpeg,"[[         41         778]
+ [         99         422]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_530_DX.jpeg
+"[[         41         778]
  [         40         779]
  [         26         779]
  [         26         780]
@@ -8091,15 +8091,15 @@ image_path,segmentation
  [         61         780]
  [         61         779]
  [         55         779]
- [         54         778]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_580_DX.jpeg,"[[         71         400]
+ [         54         778]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_770_DX.jpeg
+"[[         71         400]
  [         70         401]
  [         22         401]
  ...
  [        130         401]
  [         83         401]
- [         82         400]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_180_DX.jpeg,"[[        268         884]
+ [         82         400]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_580_DX.jpeg
+"[[        268         884]
  [        268         885]
  [        267         886]
  [        262         886]
@@ -8285,29 +8285,29 @@ image_path,segmentation
  [        285         886]
  [        281         886]
  [        280         885]
- [        280         884]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_830_DX.jpeg,"[[         35         326]
+ [        280         884]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_180_DX.jpeg
+"[[         35         326]
  [         35         327]
  [         34         328]
  ...
  [        106         328]
  [        105         327]
- [        105         326]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_290_DX.jpeg,"[[         23         436]
+ [        105         326]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_830_DX.jpeg
+"[[         23         436]
  [         22         437]
  [          7         437]
  ...
  [         81         437]
  [         62         437]
- [         61         436]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_420_DX.jpeg,"[[         53         436]
+ [         61         436]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_290_DX.jpeg
+"[[         53         436]
  [         52         437]
  [         31         437]
  ...
  [        130         437]
  [         94         437]
- [         93         436]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_890_DX.jpeg,"[[        275        1189]
+ [         93         436]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_420_DX.jpeg
+"[[        275        1189]
  [        274        1190]
  [        268        1190]
  [        268        1191]
@@ -8417,15 +8417,15 @@ image_path,segmentation
  [        294        1191]
  [        294        1190]
  [        293        1190]
- [        292        1189]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_240_DX.jpeg,"[[        482         428]
+ [        292        1189]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_890_DX.jpeg
+"[[        482         428]
  [        482         429]
  [        481         430]
  ...
  [        503         430]
  [        502         429]
- [        502         428]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_970_DX.jpeg,"[[         64         466]
+ [        502         428]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_240_DX.jpeg
+"[[         64         466]
  [         63         467]
  [         59         467]
  [         59         468]
@@ -8504,8 +8504,8 @@ image_path,segmentation
  [         85         468]
  [         85         467]
  [         80         467]
- [         79         466]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_860_DX.jpeg,"[[        304         536]
+ [         79         466]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_970_DX.jpeg
+"[[        304         536]
  [        304         537]
  [        303         538]
  [        296         538]
@@ -8562,15 +8562,15 @@ image_path,segmentation
  [        315         538]
  [        311         538]
  [        310         537]
- [        310         536]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_230_DX.jpeg,"[[        478         427]
+ [        310         536]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_860_DX.jpeg
+"[[        478         427]
  [        477         428]
  [        433         428]
  ...
  [        489         428]
  [        488         428]
- [        487         427]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_100_DX.jpeg,"[[        541         697]
+ [        487         427]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_230_DX.jpeg
+"[[        541         697]
  [        540         698]
  [        524         698]
  [        524         699]
@@ -8828,8 +8828,8 @@ image_path,segmentation
  [        561         699]
  [        561         698]
  [        550         698]
- [        549         697]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_910_DX.jpeg,"[[        269        1189]
+ [        549         697]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_100_DX.jpeg
+"[[        269        1189]
  [        268        1190]
  [        266        1190]
  [        266        1191]
@@ -8954,8 +8954,8 @@ image_path,segmentation
  [        292        1191]
  [        292        1190]
  [        283        1190]
- [        282        1189]]"
-/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_340_DX.jpeg,"[[         32        1162]
+ [        282        1189]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_910_DX.jpeg
+"[[         32        1162]
  [         31        1163]
  [         29        1163]
  [         29        1164]
@@ -9030,4 +9030,4 @@ image_path,segmentation
  [         46        1164]
  [         46        1163]
  [         38        1163]
- [         37        1162]]"
+ [         37        1162]]",/home/pappol/Scrivania/uni/medical/FemoralHeadSegmentation/data/dataset/normalHip/JOR01/axial/JOR01_340_DX.jpeg

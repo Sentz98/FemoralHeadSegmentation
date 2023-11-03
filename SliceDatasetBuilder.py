@@ -83,19 +83,31 @@ class CustomHipDataset(torch.utils.data.Dataset):
         
         return image, label
     
-    def load_all_dataset(self):
-        self.__images__ = []
-        self.__labels__ = []
-        for i in tqdm(range(self.__len__()), "Load all dataset"):
-            img, label = self.__getitem__(i)
-        
-            self.__images__.append(img)
-            self.__labels__.append(label)
-        
-        return
-    
     def get_all_dataset(self):
         return self.image_paths, self.labels
+    
+    def balance_dataset(self):
+        # Balance the dataset by removing the excess of negative images
+        
+        positive_images = []
+        negative_images = []
+        for i in tqdm(range(self.__len__()), "Balancing dataset", colour="MAGENTA"):
+            img = self.image_paths[i]
+            label = self.labels[i]
+            if label == 1:
+                positive_images.append(img)
+            else:
+                negative_images.append(img)
+        
+        # Take a number of random negative images equal to the number of positive images
+        np.random.shuffle(negative_images)
+        negative_images = negative_images[:len(positive_images)]
+        
+        self.image_paths = positive_images + negative_images
+        self.labels = [1]*len(positive_images) + [0]*len(negative_images)
+        
+        print(f"Dataset balanced: {len(positive_images)} positive images and {len(negative_images)} negative images")
+        return
 
 # Usage:
 # dataset = CustomHipDataset("your_json_path.json")
